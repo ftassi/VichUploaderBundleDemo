@@ -1,0 +1,4 @@
+VichUploaderBundleDemo
+======================
+
+VichUploaderBundle Demo application
